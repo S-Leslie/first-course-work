@@ -1,0 +1,18 @@
+﻿  Пропуск... (изменения не обнаружены)
+  stdafx.cpp
+  ObrabotkaInf.cpp
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\obrabotkainf.cpp(15): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\obrabotkainf.cpp(21): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\obrabotkainf.cpp(51): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\obrabotkainf.cpp(63): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\obrabotkainf.cpp(64): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  DrawPlane.cpp
+  kursovayaSerkova.vcxproj -> C:\Users\мид\Desktop\kursovayaSerkova\Debug\kursovayaSerkova.exe
+  kursovayaSerkova.vcxproj -> C:\Users\мид\Desktop\kursovayaSerkova\Debug\kursovayaSerkova.pdb (Full PDB)

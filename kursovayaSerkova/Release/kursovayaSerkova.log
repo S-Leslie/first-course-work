@@ -1,0 +1,60 @@
+﻿  stdafx.cpp
+  DrawPlane.cpp
+DrawPlane.cpp(29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(59): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+DrawPlane.cpp(59): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+DrawPlane.cpp(63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(75): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+DrawPlane.cpp(75): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+DrawPlane.cpp(79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(86): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+DrawPlane.cpp(86): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+DrawPlane.cpp(89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(100): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+DrawPlane.cpp(100): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+DrawPlane.cpp(101): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(102): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(116): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+DrawPlane.cpp(116): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+DrawPlane.cpp(117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+DrawPlane.cpp(118): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Files.cpp
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\kursovayaSerkova.h(19): warning C4005: TEXT: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(536): note: см. предыдущее определение "TEXT"
+  InputText.cpp
+InputText.cpp(53): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+InputText.cpp(53): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+InputText.cpp(57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+InputText.cpp(11): warning C4101: ps: неиспользованная локальная переменная
+  kursovayaSerkova.cpp
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\kursovayaSerkova.h(19): warning C4005: TEXT: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(536): note: см. предыдущее определение "TEXT"
+kursovayaSerkova.cpp(375): warning C4800: INT_PTR: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+kursovayaSerkova.cpp(474): warning C4101: end: неиспользованная локальная переменная
+kursovayaSerkova.cpp(471): warning C4101: hFont1: неиспользованная локальная переменная
+  ObrabotkaInf.cpp
+c:\users\мид\desktop\kursovayaserkova\kursovayaserkova\kursovayaSerkova.h(19): warning C4005: TEXT: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(536): note: см. предыдущее определение "TEXT"
+ObrabotkaInf.cpp(14): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+ObrabotkaInf.cpp(20): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+ObrabotkaInf.cpp(50): warning C4477: "swprintf": в строке форматирования "%-17s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "int"
+ObrabotkaInf.cpp(50): warning C4477: "swprintf": в строке форматирования "%15s" требуется аргумент типа "wchar_t *", но вариативный аргумент "4" имеет тип "int"
+ObrabotkaInf.cpp(50): warning C4477: "swprintf": в строке форматирования "%15s" требуется аргумент типа "wchar_t *", но вариативный аргумент "5" имеет тип "int"
+ObrabotkaInf.cpp(50): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+ObrabotkaInf.cpp(65): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+ObrabotkaInf.cpp(66): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note:  см. объявление "wcscpy"
+ObrabotkaInf.cpp(58): warning C4101: buf: неиспользованная локальная переменная
+kursovayaSerkova.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl ReadAll(class std::basic_fstream<wchar_t,struct std::char_traits<wchar_t> > &,struct HWND__ *)" (?ReadAll@@YAXAAV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@PAUHWND__@@@Z)"
+kursovayaSerkova.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl add(class std::basic_fstream<wchar_t,struct std::char_traits<wchar_t> > &,struct AirBeg &,int)" (?add@@YAXAAV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@AAUAirBeg@@H@Z)"
+kursovayaSerkova.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl MarkToDel(class std::basic_fstream<wchar_t,struct std::char_traits<wchar_t> > &,int)" (?MarkToDel@@YAXAAV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@H@Z)"
+kursovayaSerkova.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl ChangeMarkToDelete(class std::basic_fstream<wchar_t,struct std::char_traits<wchar_t> > &,struct HWND__ *,struct HWND__ *,int)" (?ChangeMarkToDelete@@YAXAAV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@PAUHWND__@@1H@Z)"
+kursovayaSerkova.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl DelMark(class std::basic_fstream<wchar_t,struct std::char_traits<wchar_t> > &)" (?DelMark@@YAXAAV?$basic_fstream@_WU?$char_traits@_W@std@@@std@@@Z)"
+C:\Users\мид\Desktop\kursovayaSerkova\Release\kursovayaSerkova.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
